@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="directions_activity_toast_message">scsac</string>
+    <string name="access_token">pk.eyJ1IjoibXNodW10dW0iLCJhIjoiY2tja2czOHkzMTZpNzJxbzNkZGQ1bjFpaSJ9.rSvxZXOZ2Hd_S7FPH80yhA</string>
+</resources>
